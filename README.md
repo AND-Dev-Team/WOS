@@ -1,1 +1,1 @@
-# WOS
+# Windows on Scratch Emulator
